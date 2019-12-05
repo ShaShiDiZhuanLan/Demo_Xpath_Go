@@ -1,9 +1,10 @@
 # GoLang语言的应用 之 Demo_Xpath_Go
 利用 Xpath 读取 html 内容, 通过 Github 来演示 Xpath 如何使用 <BR/>
 <BR/> 
-# 作者
-Author：沙振宇<BR/>
+# 更新信息
+开发者：沙振宇（沙师弟专栏） <BR/>
 创建时间：2019-12-4<BR/>
+最后一次更新时间：2019-12-5<BR/>
 CSDN博客地址：https://shazhenyu.blog.csdn.net/article/details/103391918 <BR/>
 <BR/>
 # 先安装 Github 的其它包
